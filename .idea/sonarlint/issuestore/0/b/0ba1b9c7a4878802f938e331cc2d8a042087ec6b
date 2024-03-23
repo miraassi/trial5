@@ -1,0 +1,143 @@
+
+r
+java:S1192]"WDefine a constant instead of duplicating this literal "Please enter your Name" 3 times.(›¾Ûèøÿÿÿÿ
+¢
+java:S1192A"†Define a constant instead of duplicating this literal "
+You have entered an incorrect value.
+ Please enter a correct number:" 3 times.(£ƒ¼†ûÿÿÿÿ
+ˆ
+java:S1192å"lDefine a constant instead of duplicating this literal "create event successfully and its price is " 4 times.(ê‚æ¥úÿÿÿÿ
+n
+java:S1192”"RDefine a constant instead of duplicating this literal "Enter service id:" 3 times.(¡¾¶Œûÿÿÿÿ
+o
+java:S1192º"YDefine a constant instead of duplicating this literal "Invalid option selected." 4 times.(ö‹†3
+q
+java:S1192^"[Define a constant instead of duplicating this literal "Please enter your password" 3 times.(éëÅ©
+l	java:S117Ã"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(î¡‚µüÿÿÿÿ
+l	java:S117Ë"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿù´©ûÿÿÿÿ
+l	java:S117Ô"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üæ¬‚úÿÿÿÿ
+g	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŠŞ˜´
+l	java:S117¶"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Åí„÷øÿÿÿÿ
+g	java:S117ª"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ØÒ†“
+@
+java:S2629"$Invoke method(s) only conditionally.(Ÿªı‹ùÿÿÿÿ
+@
+java:S2629©"$Invoke method(s) only conditionally.(Ÿªı‹ùÿÿÿÿ
+@
+java:S2629¯"$Invoke method(s) only conditionally.(úÜÀåıÿÿÿÿ
+@
+java:S2629²"$Invoke method(s) only conditionally.(Ÿªı‹ùÿÿÿÿ
+S
+java:S2629å"7Use the built-in formatting to construct this argument.(ê‚æ¥úÿÿÿÿ
+@
+java:S2629ô"$Invoke method(s) only conditionally.(•™Êğÿÿÿÿÿ
+s
+java:S2629Ö"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(ŞæŸ•
+S
+java:S2629ß"7Use the built-in formatting to construct this argument.(¸¢¾şÿÿÿÿ
+s
+java:S2629®"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(ŞæŸ•
+;
+java:S2629Á"$Invoke method(s) only conditionally.(ÊÜ“Æ
+@
+java:S2629Ç"$Invoke method(s) only conditionally.(îÀáŠûÿÿÿÿ
+;
+java:S2629Ë"$Invoke method(s) only conditionally.(Â³´Ş
+;
+java:S2629Ô"$Invoke method(s) only conditionally.(œ–
+;
+java:S2629Ú"$Invoke method(s) only conditionally.(±Úûê
+P
+java:S6213":Rename this variable to not match a restricted identifier.(¼µøÈ
+h	java:S1004"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õÕÂ¬ùÿÿÿÿ
+f	java:S128Q"LEnd this switch case with an unconditional break, return or throw statement.(µ»ïşıÿÿÿÿ
+?
+java:S1940a")Use the opposite operator ("!=") instead.(ÊÏîï
+D
+java:S1940h")Use the opposite operator ("!=") instead.(“¢³ıÿÿÿÿ
+Q
+java:S1854ù"5Remove this useless assignment to local variable "t".(©¯¡ïûÿÿÿÿ
+W	java:S125ê"<This block of commented-out lines of code should be removed.(·êç€üÿÿÿÿ
+B
+java:S1481ù"&Remove this unused "t" local variable.(©¯¡ïûÿÿÿÿ
+H
+java:S1172†",Remove this unused method parameter "input".(Âüüùøÿÿÿÿ
+K
+java:S1874"/Remove this use of "getYear"; it is deprecated.(í°°Àşÿÿÿÿ
+L
+java:S1874"0Remove this use of "getMonth"; it is deprecated.(í°°Àşÿÿÿÿ
+K
+java:S1874"/Remove this use of "getDate"; it is deprecated.(í°°Àşÿÿÿÿ
+L
+java:S1854Õ"5Remove this useless assignment to local variable "P".(ÙäÓı
+Q
+java:S1854Ñ"5Remove this useless assignment to local variable "b".(¡«ğûÿÿÿÿ
+T
+java:S1854¦"8Remove this useless assignment to local variable "time".(óÓ’èÿÿÿÿÿ
+T
+java:S1854¥"8Remove this useless assignment to local variable "date".(†ô€ûÿÿÿÿ
+H
+java:S1874¥",Remove this use of "Date"; it is deprecated.(†ô€ûÿÿÿÿ
+E
+java:S1481¥")Remove this unused "date" local variable.(†ô€ûÿÿÿÿ
+H
+java:S1874¦",Remove this use of "Time"; it is deprecated.(óÓ’èÿÿÿÿÿ
+H
+java:S1874¸",Remove this use of "Time"; it is deprecated.(¬ì€Äúÿÿÿÿ
+G
+java:S1874Ç"0Remove this use of "getHours"; it is deprecated.(ºœÊµ
+I
+java:S1874Ç"2Remove this use of "getMinutes"; it is deprecated.(ºœÊµ
+I
+java:S1874Ç"2Remove this use of "getSeconds"; it is deprecated.(ºœÊµ
+8	java:S131Ì""Add a default case to this switch.(¨ÕÉ
+B
+java:S1481Ñ"&Remove this unused "b" local variable.(¡«ğûÿÿÿÿ
+B
+java:S1481Ô"&Remove this unused "P" local variable.(üæ¬‚úÿÿÿÿ
+N
+java:S6126î"2Replace this String concatenation with Text block.(¥¹ûÄşÿÿÿÿ
+F	java:S106‚"+Replace this use of System.out by a logger.(«İÙúşÿÿÿÿ
+i
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(€¡Ù¾
+Y
+java:S1854º"=Remove this useless assignment to local variable "eventName".(šÍÎŸùÿÿÿÿ
+Q
+java:S1854¬"5Remove this useless assignment to local variable "b".(¡«ğûÿÿÿÿ
+N
+java:S6126¤"2Replace this String concatenation with Text block.(„Ğ–çùÿÿÿÿ
+F
+java:S1874¿"/Remove this use of "getYear"; it is deprecated.(áºµé
+G
+java:S1874¿"0Remove this use of "getMonth"; it is deprecated.(áºµé
+F
+java:S1874¿"/Remove this use of "getDate"; it is deprecated.(áºµé
+F
+java:S1874Ğ"/Remove this use of "getYear"; it is deprecated.(‘Ìœ
+G
+java:S1874Ğ"0Remove this use of "getMonth"; it is deprecated.(‘Ìœ
+F
+java:S1874Ğ"/Remove this use of "getDate"; it is deprecated.(‘Ìœ
+B
+java:S1874ç",Remove this use of "Time"; it is deprecated.(ÛìÆ[
+F
+java:S1874î"/Remove this use of "getYear"; it is deprecated.(Ş‘ğ»
+F
+java:S1874î"/Remove this use of "getYear"; it is deprecated.(Ş‘ğ»
+G
+java:S1874î"0Remove this use of "getMonth"; it is deprecated.(Ş‘ğ»
+G
+java:S1874î"0Remove this use of "getMonth"; it is deprecated.(Ş‘ğ»
+F
+java:S1874î"/Remove this use of "getDate"; it is deprecated.(Ş‘ğ»
+F
+java:S1874î"/Remove this use of "getDate"; it is deprecated.(Ş‘ğ»
+B
+java:S1481¬"&Remove this unused "b" local variable.(¡«ğûÿÿÿÿ
+a	java:S128Û"LEnd this switch case with an unconditional break, return or throw statement.(ÒñŠ{
+C
+java:S1172ç",Remove this unused method parameter "input".(²×úÊ
+g	java:S128Š"LEnd this switch case with an unconditional break, return or throw statement.(‰ÆÄÎşÿÿÿÿ
+F	java:S106š"+Replace this use of System.out by a logger.(¶Û¼Íøÿÿÿÿ
+Ş
+java:S6541"ÆA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 118 to 64, Complexity from 30 to 14, Nesting Level from 3 to 2, Number of Variables from 26 to 6.(€¡Ù¾

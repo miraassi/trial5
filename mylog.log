@@ -1,0 +1,5 @@
+[21:00:33] org.example.Main: Please enter event name: 
+[21:00:33] org.example.Main: 1. sign up 
+ 2. login
+ 3.forget password
+ Enter the number: 
